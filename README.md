@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moore-Tian (Muzhao Tian)
-- 👀 I’m interested in atural language processing.
+- 👀 I’m interested in natural language processing.
 - 🌱 I’m currently learning deep learning and reinforcement learning.
 - 📫 How to reach me: Email: 21307140069@fudan.edu.cn or WeChat: tmz15737236838
 
